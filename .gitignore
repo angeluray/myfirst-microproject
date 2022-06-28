@@ -348,3 +348,9 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+# ignoring linter file.
+*.hintrc
+
+#ignoring the file node_modules in case is here.
+node_modules/
