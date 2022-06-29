@@ -27,7 +27,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Setup
 
-Open the followin link [link](https://github.com/angeluray/myfirst-microproject)
+Open the following [link](https://github.com/angeluray/myfirst-microproject)
 
 ### Install
 
