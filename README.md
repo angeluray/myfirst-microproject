@@ -1,5 +1,3 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
 # Hello Microverse Project
 
 > This is my first Microverse Project which is a greeting message in the web.
